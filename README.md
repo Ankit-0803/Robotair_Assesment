@@ -26,7 +26,7 @@ The **Robot Fleet Monitoring Dashboard** is a comprehensive tool designed to vis
      - Low battery levels (<20%)
 
 ### Additional Features
-- Deployed frontend using **Netlify** and backend via **Heroku/Render**.
+- Deployed on Vercel.
 - Docker support for simplified deployment.
 - Filtering options to view robots by status (active, offline, or low battery).
 
